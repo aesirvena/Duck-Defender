@@ -1,5 +1,7 @@
 {
-  "buildCommand": "cd 'Activity 3.6  Raycaster and Mouse Events' && npm run build",
-  "outputDirectory": "Activity 3.6  Raycaster and Mouse Events/dist",
-  "devCommand": "cd 'Activity 3.6  Raycaster and Mouse Events' && npm run dev"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "roots": {
+    "Activity 3.6  Raycaster and Mouse Events": "."
+  }
 }
